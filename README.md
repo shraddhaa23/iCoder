@@ -11,7 +11,11 @@ This project demonstrates:
 - Fully mobile-friendly layout
 
 ---
+## 🚀 Live Demo
 
+👉 [Visit Portfolio Website](https://shraddhaa23.github.io/iCoder)
+
+---
 ## 🚀 Features
 - **Responsive Navbar:** Collapses into a toggle menu on small screens.
 - **Login & Sign-up Modals:** Pop-up forms for authentication.
@@ -27,3 +31,13 @@ This project demonstrates:
 - **CSS3** (Bootstrap 5.3.6 framework)
 - **Bootstrap Icons** for UI elements
 - **JavaScript** (via Bootstrap bundle for interactivity)
+
+## 📦 Installation
+git clone https://github.com/shraddhaa23/portfoliowebsite.git
+cd portfoliowebsite
+npm install
+npm start
+
+## 📤 Deployment
+This project uses gh-pages to deploy to GitHub Pages.
+
