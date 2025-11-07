@@ -32,12 +32,6 @@ This project demonstrates:
 - **Bootstrap Icons** for UI elements
 - **JavaScript** (via Bootstrap bundle for interactivity)
 
-## 📦 Installation
-git clone https://github.com/shraddhaa23/portfoliowebsite.git
-cd portfoliowebsite
-npm install
-npm start
-
 ## 📤 Deployment
 This project uses gh-pages to deploy to GitHub Pages.
 
