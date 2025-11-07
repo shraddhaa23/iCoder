@@ -10,12 +10,10 @@ This project demonstrates:
 - Structured sections for tech blogs or articles
 - Fully mobile-friendly layout
 
----
 ## 🚀 Live Demo
 
-👉 [Visit Portfolio Website](https://shraddhaa23.github.io/iCoder)
+👉 [Visit iCoder Website](https://shraddhaa23.github.io/iCoder)
 
----
 ## 🚀 Features
 - **Responsive Navbar:** Collapses into a toggle menu on small screens.
 - **Login & Sign-up Modals:** Pop-up forms for authentication.
@@ -23,8 +21,6 @@ This project demonstrates:
 - **Headlines Section:** Highlight trending topics or articles.
 - **Footer with Social Icons:** Instagram and Facebook links included.
 - Built with **Bootstrap Icons**.
-
----
 
 ## 🛠️ Technologies Used
 - **HTML5** for markup
